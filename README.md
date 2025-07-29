@@ -1,32 +1,31 @@
+# Hello world! Me chamo Giulia! <3 👋
 
-# 👋 HELLO WORLD!
+Bem-vindo ao meu perfil! Sou intensamente apaixonada e curiosa pelo mundo da tecnologia, principalmente na área de desenvolvimento de software. Estou ansiosa para avançar nessa área!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=4000&color=333&center=true&vCenter=true&lines=Eu+sou+Maria Giulia!;Bem-vindo+ao+meu+perfil!">
-</p>
+## 🚀 Sobre Mim
+- 🌱 Atualmente, estou aprimorando minhas habilidades em **HTML, CSS, JavaScript, React, .NET, Git e Git GitHub]**.
+- 💼 Trabalho como **Estagiária de Programação** no **[CESAR School]**.
+- 💡 Tenho interesse em **Front-end , Web Designer, Fullstack e Desenvolvimento de jogos**.
+- 📫 Como me encontrar: [msgiuliamartins@gmail.com]
 
-<p align="center">
-  <img src="link_para_sua_imagem.gif" alt="Animação ou Foto" width="400px">
-</p>
+## 🛠️ Tecnologias e Ferramentas
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
-## 🛠️ Sobre mim
-- 🌱 Estou aprendendo: Desenvolvimento Front-End
-- 🎯 Objetivo atual: Dev Fullstack 
-- 💬 Pergunte-me sobre: JS Vanilla,  responsividade, web design!
+## 📊 Estatísticas do GitHub
+![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=giuliasza&show_icons=true&theme=radical)
 
-## 🚀 Minhas Tecnologias
-![Linguagem1](https://img.shields.io/badge/-C#-333?style=for-the-badge&logo=LogoLinguagem)
-![Linguagem2](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=LogoLinguagem)
-![Linguagem2](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=LogoLinguagem)
-![Linguagem2](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=LogoLinguagem)
-![Linguagem2](https://img.shields.io/badge/-JS-333?style=for-the-badge&logo=LogoLinguagem)
-![Linguagem2](https://img.shields.io/badge/-GIT-333?style=for-the-badge&logo=LogoLinguagem)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliasza&layout=compact&theme=radical)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=giuliasza&show_icons=true&theme=radical)
+## 🌐 Vamos Conectar?
+[Meu LinkedIn!](https://linkedin.com/in/giuliasza)
 
-## 📊 Minhas Contribuições
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+## 📚 Meus projetos
+- [**Vibrato**](https://escola-de-musica-vibrato.vercel.app/): Site instituicional de uma escola de música para a aprendizagem de instrumentos.
+- [**Entre becos e Futuros**](https://larathaylanne.itch.io/entre-becos-e-futuro): Jogo de plataforma sociocultural da cidade do Recife.
 
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/giuliasza)
-[![E-mail](https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=gmail)](mailto:msgiuliamartins@gmail.com)
+Obrigado por visitar o meu perfil! 😊
+
