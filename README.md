@@ -4,7 +4,6 @@ Bem-vindo ao meu perfil! Sou intensamente apaixonada e curiosa pelo mundo da tec
 
 ## 🚀 Sobre Mim
 - 🌱 Atualmente, estou aprimorando minhas habilidades em **HTML, CSS, JavaScript, React, .NET, Git e Git GitHub]**.
-- 💼 Trabalho como **Estagiária de Programação** no **[CESAR School]**.
 - 💡 Tenho interesse em **Front-end , Web Designer, Fullstack e Desenvolvimento de jogos**.
 - 📫 Como me encontrar: [msgiuliamartins@gmail.com]
 
