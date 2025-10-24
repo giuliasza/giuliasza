@@ -3,7 +3,7 @@
 Bem-vindo ao meu perfil! Sou intensamente apaixonada e curiosa pelo mundo da tecnologia, principalmente na área de desenvolvimento de software. Estou ansiosa para avançar nessa área!
 
 ## 🚀 Sobre Mim
-- 🌱 Atualmente, estou aprimorando minhas habilidades em **HTML, CSS, JavaScript, Node.js, Git e Git GitHub]**.
+- 🌱 Atualmente, estou aprimorando minhas habilidades em **HTML, CSS, JavaScript, Node.js, Git e Git GitHub**.
 - 💡 Tenho interesse em ser **Web Designer e Fullstack.**
 - 📫 Como me encontrar: [msgiuliamartins@gmail.com]
 
@@ -11,7 +11,6 @@ Bem-vindo ao meu perfil! Sou intensamente apaixonada e curiosa pelo mundo da tec
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
 ## 📊 Estatísticas do GitHub
