@@ -13,11 +13,6 @@ Bem-vindo ao meu perfil! Sou intensamente apaixonada e curiosa pelo mundo da tec
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
-## 📊 Estatísticas do GitHub
-![Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=giuliasza&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliasza&layout=compact&theme=radical)
-
 ## 🌐 Vamos Conectar?
 [Meu LinkedIn!](https://linkedin.com/in/giuliasza)
 
