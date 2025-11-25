@@ -3,7 +3,7 @@
 Bem-vindo ao meu perfil! Sou intensamente apaixonada e curiosa pelo mundo da tecnologia, principalmente na área de desenvolvimento de software. Estou ansiosa para avançar nessa área!
 
 ## 🚀 Sobre Mim
-- 🌱 Atualmente, estou aprimorando minhas habilidades em **HTML, CSS, JavaScript, Node.js, Git e Git GitHub**.
+- 🌱 Atualmente, estou aprimorando minhas habilidades em **HTML, CSS, JavaScript, Git e Git GitHub**.
 - 💡 Tenho interesse em ser **Web Designer e Fullstack.**
 - 📫 Como me encontrar: [msgiuliamartins@gmail.com]
 
