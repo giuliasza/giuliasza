@@ -1,10 +1,8 @@
 # Hello world! Me chamo Giulia! <3 👋
 
-Bem-vindo ao meu perfil! Sou intensamente apaixonada e curiosa pelo mundo da tecnologia, principalmente na área de desenvolvimento de software. Estou ansiosa para avançar nessa área!
+Bem-vindo ao meu perfil! 
 
 ## 🚀 Sobre Mim
-- 🌱 Atualmente, estou aprimorando minhas habilidades em **HTML, CSS, JavaScript, Git e GitHub**.
-- 💡 Tenho interesse em ser **Web Designer e Fullstack.**
 - 📫 Como me encontrar: [msgiuliamartins@gmail.com]
 
 ## 🛠️ Tecnologias e Ferramentas
