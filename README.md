@@ -14,9 +14,4 @@ Bem-vindo ao meu perfil!
 ## 🌐 Vamos Conectar?
 [Meu LinkedIn!](https://linkedin.com/in/giuliasza)
 
-## 📚 Meus projetos
-- [**Vibrato**](https://escola-de-musica-vibrato.vercel.app/): Site instituicional de uma escola de música para a aprendizagem de instrumentos.
-- [**Entre becos e Futuros**](https://larathaylanne.itch.io/entre-becos-e-futuro): Jogo de plataforma sociocultural da cidade do Recife.
-
-Obrigado por visitar o meu perfil! 😊
 
