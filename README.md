@@ -42,7 +42,7 @@ Atualmente, sou Estagiária de Suporte na **Recrut.AI**, Embaixadora Estudantil 
 
 ---
 
-### 🐍 Minhas Contribuições (Snake Game)
+### 🐍 Minhas Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/giuliasza/giuliasza/output/github-contribution-grid-snake.svg" alt="Snake animation" />
