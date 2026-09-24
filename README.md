@@ -33,10 +33,10 @@ Atualmente, sou Estagiária de Suporte na **Recrut.AI**, Embaixadora Estudantil 
 
 <p align="center">
   <a href="https://github.com/giuliasza">
-    <img src="https://github-readme-stats.vercel.app/api?username=giuliasza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1" alt="Estatísticas da Giulia" />
+    <img src="https://github-readme-stats.vercel.app/api?username=giuliasza&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas da Giulia" />
   </a>
   <a href="https://github.com/giuliasza">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliasza&layout=compact&theme=dracula&v=1" alt="Top Linguagens" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliasza&layout=compact&theme=dracula" alt="Top Linguagens" />
   </a>
 </p>
 
